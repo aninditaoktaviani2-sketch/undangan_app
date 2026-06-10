@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "952803047078",
-    "project_id": "undangan-631a1",
-    "storage_bucket": "undangan-631a1.firebasestorage.app"
+    "project_number": "519911313600",
+    "project_id": "undangan-app-cc0bd",
+    "storage_bucket": "undangan-app-cc0bd.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:952803047078:android:30f243f671215d9898e667",
+        "mobilesdk_app_id": "1:519911313600:android:1a29a87d049c71f00d5d25",
         "android_client_info": {
           "package_name": "com.example.undangan_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "952803047078-29nvtod9ae124156rkmmm30nv6h6ocs2.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.undangan_app",
-            "certificate_hash": "e9e18bc340f17019bdf52c4df2b27b4a4f8bfa26"
-          }
-        },
-        {
-          "client_id": "952803047078-82pmha3u4br19eg38r5vtcfeq32u93ua.apps.googleusercontent.com",
+          "client_id": "519911313600-ohnjfokn3hrrarusf7okhavhofuqr2fg.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDLq5jVzD1nf9C2jjC5wAAq5RBIW8Zw7tg"
+          "current_key": "AIzaSyDzsk8kzf0uCkynVQ3pELEmlrY9Y7qOr6E"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "952803047078-82pmha3u4br19eg38r5vtcfeq32u93ua.apps.googleusercontent.com",
+              "client_id": "519911313600-ohnjfokn3hrrarusf7okhavhofuqr2fg.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
